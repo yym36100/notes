@@ -1,0 +1,40 @@
+Our Smallest, Ultra-Efficient Low-Power Controller
+
+Features
+
+    Tensilica's smallest, lowest power 32-bit RISC controller core
+    Cache-less processor with memory protection unit
+    5-stage pipeline
+    Dhrystone 2.1: 1.22 DMIPS/MHz
+    24-/16-bit ISA with modeless switching
+    Iterative 32x32 multiplier
+    Separate instruction and data memory interfaces
+    Integrated interrupt controller with 15 interrupts at 2 priority levels
+    Integrated timer
+    On-chip debugging hardware
+    Embedded trace support
+    Comprehensive software design environment
+    AHB-lite and AXI bridges
+
+Benefits
+
+    Easy migration from 8- and 16-bit microcontrollers
+    Lower total system costs due to smaller size, higher performance, and better code density
+    Deterministic real-time operation through optional single-cycle local instruction and data SRAMs
+    Achieve high frequency: 900 MHz in 45nm GS
+    Multiplier provides high arithmetic and DSP performance
+    No memory contention between instructions and data
+    Fast and flexible interrupt handling
+    Drop into existing AMBA™-based SOCs
+
+Tensilica's Smallest 32-bit RISC Controller Core
+
+The Diamond Standard 106Micro CPU is a cache-less 32-bit controller ideal for designers looking for a basic 32-bit controller, particularly for those migrating up from an 8- or 16-bit controller.  Designed for applications with requirements for minimal size and low power, the Diamond Standard 106Micro controller enables SOC architects to quickly integrate this efficient CPU in their designs.
+
+Although the Diamond 106Micro is extremely small, it employs a 5-stage pipeline so it can achieve 650 MHz in 65gp process and up to 900 MHz in 45gs process technology. By modelessly switching between 24- and 16-bit narrow instructions, it achieves much higher code density than other 32/16-bit architectures.
+
+The local, tightly-coupled instruction and data memory on the Diamond Standard 106Micro can be used to store performance-sensitive code and data, for example, to achieve high performance on interrupt handlers. The Diamond 106Micro has an iterative, multi-cycle (non-pipelined) 32x32 multiplier that enhances performance on arithmetic and DSP code. The processor uses a non-windowed 16-entry register file to keep area low.
+
+The Diamond Standard 106Micro has a rich interrupt architecture with the integrated interrupt controller providing 15 interrupts, and an integrated timer. This simplifies system design since no external hardware needs to be added for these functions.
+
+Get the 2-page Diamond Standard 106Micro product brief.
