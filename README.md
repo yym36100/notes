@@ -12,3 +12,7 @@ https://www.esp8266.com/viewtopic.php?t=16591
 
 run mode debug gdb stub
 https://interrupt.memfault.com/blog/cortex-m-debug-monitor
+
+impressive trace demo
+https://tracy.nereid.pl/
+
