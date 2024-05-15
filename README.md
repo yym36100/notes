@@ -16,3 +16,5 @@ https://interrupt.memfault.com/blog/cortex-m-debug-monitor
 impressive trace demo
 https://tracy.nereid.pl/
 
+radio module with lcd
+https://www.aliexpress.com/item/1005003550723044.html
