@@ -18,3 +18,7 @@ https://tracy.nereid.pl/
 
 radio module with lcd
 https://www.aliexpress.com/item/1005003550723044.html
+
+7" 1024x600 ips cap touch disp
+http://www.lcdwiki.com/7.0inch_RGB_Display
+https://www.aliexpress.com/item/1005006400168058.html?spm=a2g0o.order_list.order_list_main.19.39c81802i35OlY
